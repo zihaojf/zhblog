@@ -61,10 +61,10 @@ export const theme: ThemeUserConfig = {
       url: 'https://beian.miit.gov.cn/',
       text: '湘ICP备2024093533号-1'
     },
-    registration2: {
-      url: 'https://beian.mps.gov.cn/#/query/webSearch?code=%E9%84%82%E5%85%AC%E7%BD%91%E5%AE%89%E5%A4%8742011102005692%E5%8F%B7',
-      text: '鄂公网安备42011102005692号'
-    },
+    // registration2: {
+    //   url: 'https://beian.mps.gov.cn/#/query/webSearch?code=%E9%84%82%E5%85%AC%E7%BD%91%E5%AE%89%E5%A4%8742011102005692%E5%8F%B7',
+    //   text: '鄂公网安备42011102005692号'
+    // },
 
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
     credits: true,
