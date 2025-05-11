@@ -30,6 +30,8 @@ import react from '@astrojs/react';
 import markdoc from '@astrojs/markdoc';
 import keystatic from '@keystatic/astro'
 
+import netlify from '@astrojs/netlify';
+
 // https://astro.build/config
 export default defineConfig({
   // Top-Level Options
@@ -40,7 +42,7 @@ export default defineConfig({
   // Adapter
   // https://docs.astro.build/en/guides/deploy/
   // 1. Vercel (serverless)
-  adapter: vercel(),
+  adapter: netlify(),
   output: 'server',
   // 2. Vercel (static)
   // adapter: vercelStatic(),
