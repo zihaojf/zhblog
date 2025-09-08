@@ -1,5 +1,5 @@
 ---
-title: 'GAMES101 Lecture15 Ray Tracing03(Light Transport & Global Illumination)'
+title: 'GAMES101 Lecture15 Ray Tracing03'
 publishDate: '2025-09-08'
 updatedDate: '2025-09-08'
 description: '基于GAMES101 Lecture 15的课程视频的总结'
