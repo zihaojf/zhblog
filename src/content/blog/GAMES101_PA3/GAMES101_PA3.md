@@ -5,7 +5,7 @@ updatedDate: '2025-09-11'
 description: '基于GAMES101 作业3'
 tags:
   - 图形学
-language: '中文‘
+language: '中文'
 ---
 
 ## 一.作业要求
